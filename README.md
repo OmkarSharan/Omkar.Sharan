@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Back-End Java Developer with over 5 years of experience, primarily focused on developing robust REST APIs using the Spring Boot framework. I have hands-on experience with both SQL and NoSQL databases, and I've implemented Apache Kafka architecture for building scalable and distributed systems.<br><br>In addition to my core skills, I have a foundational understanding of Docker for containerization. I enjoy coding, problem-solving, and building applications that solve real-world challenges. I'm always eager to learn new technologies and improve my skills to deliver efficient and maintainable solutions.
+I am a passionate Back-End Java Developer with over 6+ years of experience, primarily focused on developing robust REST APIs using the Spring Boot framework. I have hands-on experience with both SQL and NoSQL databases, and I've implemented Apache Kafka architecture for building scalable and distributed systems.<br><br>In addition to my core skills, I have a foundational understanding of Docker for containerization. I enjoy coding, problem-solving, and building applications that solve real-world challenges. I'm always eager to learn new technologies and improve my skills to deliver efficient and maintainable solutions.
 
 
 ## 🌐 Socials:
